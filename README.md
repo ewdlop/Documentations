@@ -1,10 +1,18 @@
 # Documentations
 
-# C#/.Net
+# .Net
 
 <https://learn.microsoft.com/en-us/dotnet/csharp/>
 
-# Blazor
+## Web API
+
+<https://developer.mozilla.org/en-US/docs/Web/API>
+
+<https://learn.microsoft.com/en-us/aspnet/core/fundamentals/apis?view=aspnetcore-9.0>
+
+<https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-9.0&tabs=visual-studio>
+
+## Blazor
 
 <https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor>
 
@@ -33,17 +41,22 @@
 
 <https://www.w3schools.com/>
 
+# JSON
+
+<https://www.json.org/json-en.html>
+
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON>
+
+
+## Frameworks
+
 <https://d3js.org/>
 
 <https://threejs.org/>
 
 <https://www.babylonjs.com/>
 
-# Typescript
-
-<https://www.typescriptlang.org/>
-
-# React
+### React
 
 <https://react.dev/reference/react>
 
@@ -55,6 +68,9 @@
 
 <https://mui.com/material-ui/>
 
+# Typescript
+
+<https://www.typescriptlang.org/>
 
 # Html5/CSS
 
@@ -72,7 +88,9 @@
 
 <https://developer.mozilla.org/en-US/docs/Web/HTTP>
 
-# XML
+# Markup_Language
+
+## XML
 
 <https://developer.mozilla.org/en-US/docs/Web/SVG>
 
@@ -80,11 +98,11 @@
 
 <https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction>
 
-# YAML
+## YAML
 
 <https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines>
 
-# XAML
+## XAML
 
 <https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language>
 
@@ -92,13 +110,7 @@
 
 <https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-9.0>
 
-# JSON
-
-<https://www.json.org/json-en.html>
-
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON>
-
-# MathML
+## MathML
 
 <https://developer.mozilla.org/en-US/docs/Web/MathML>
 
@@ -106,6 +118,6 @@
 
 <https://www.soapui.org/docs/soap-and-wsdl/operations-and-requests>
 
-# Github Codes Samples/Issuse
+# Github Codes Samples/Issues
 
 <https://github.com/CSSHoudini/awesome-css-houdini>
