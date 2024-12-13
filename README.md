@@ -4,6 +4,13 @@
 
 <https://learn.microsoft.com/en-us/dotnet/csharp/>
 
+# Blazor
+
+<https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor>
+
+<https://mudblazor.com/>
+
+
 # Powershell 5/7(.Net Framework and .Net Core+)
 
 <https://learn.microsoft.com/en-us/powershell/>
@@ -26,6 +33,11 @@
 
 <https://www.w3schools.com/>
 
+<https://d3js.org/>
+
+<https://threejs.org/>
+
+<https://www.babylonjs.com/>
 
 # Typescript
 
@@ -40,6 +52,8 @@
 <https://r3f.docs.pmnd.rs/getting-started/introduction>
 
 <https://drei.docs.pmnd.rs/getting-started/introduction>
+
+<https://mui.com/material-ui/>
 
 
 # Html5/CSS
