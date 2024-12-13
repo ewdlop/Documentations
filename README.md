@@ -1,22 +1,22 @@
 # Documentations
 
-# .Net
+# .Net/.Net Core
 
 <https://learn.microsoft.com/en-us/dotnet/csharp/>
 
-## Web Form
+## ASP.NET/ASP.NET CORE
 
 <https://learn.microsoft.com/en-us/aspnet/web-forms/>
 
-## MVC
+### MVC
 
 <https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-9.0>
 
-## Razor Page
+### Razor Page
 
 <https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-9.0&tabs=visual-studio>
 
-## Web API
+### Web API
 
 <https://developer.mozilla.org/en-US/docs/Web/API>
 
@@ -24,16 +24,23 @@
 
 <https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-9.0&tabs=visual-studio>
 
-## Blazor
+### Blazor
 
 <https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor>
 
 <https://mudblazor.com/>
 
-
-# Powershell 5/7(.Net Framework and .Net Core+)
+## Powershell 5/7(.Net Framework and .Net Core+)
 
 <https://learn.microsoft.com/en-us/powershell/>
+
+## Database
+
+<https://learn.microsoft.com/en-us/ef/core/>
+
+<https://www.learndapper.com/>
+
+<https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview>
 
 # Azure
 
