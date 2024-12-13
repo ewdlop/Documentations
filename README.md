@@ -4,6 +4,18 @@
 
 <https://learn.microsoft.com/en-us/dotnet/csharp/>
 
+## Web Form
+
+<https://learn.microsoft.com/en-us/aspnet/web-forms/>
+
+## MVC
+
+<https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-9.0>
+
+## Razor Page
+
+<https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-9.0&tabs=visual-studio>
+
 ## Web API
 
 <https://developer.mozilla.org/en-US/docs/Web/API>
@@ -88,7 +100,7 @@
 
 <https://developer.mozilla.org/en-US/docs/Web/HTTP>
 
-# Markup_Language
+# Markup Language
 
 ## XML
 
