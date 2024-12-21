@@ -1,5 +1,9 @@
 # Documentations
 
+# Win32
+
+<https://github.com/MicrosoftDocs/win32>
+
 # .Net/.Net Core
 
 <https://learn.microsoft.com/en-us/dotnet/csharp/>
